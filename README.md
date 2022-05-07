@@ -59,9 +59,12 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 ## Deploy to Railway
 <p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
-## Deploy to Oktato
- <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Hydrayt777/VCPlayerBotx"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
- 
+## 🚀 Okteto Deployment
+
+<h4>Click the button below to deploy Yukki on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TeamYukki/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+
+
 ## Deploy to VPS
 
 ```sh
