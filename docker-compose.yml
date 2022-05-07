@@ -1,8 +1,17 @@
 version: "4"
 services:
-  yukki:
+  worker:
     build: .
     environment:
-      API_ID: $API_ID
       API_HASH: $API_HASH
+      API_ID: $API_ID
       BOT_TOKEN: $BOT_TOKEN
+      SESSION_STRING: $SESSION_STRING
+      CHAT: $CHAT
+      LOG_GROUP: $LOG_GROUP
+      QUALITY: $QUALITY
+      DATABASE_URI: $DATABASE_URI
+      ADMINS: $ADMINS
+      ADMIN_ONLY: $ADMIN_ONLY
+      STARTUP_STREAM: $STARTUP_STREAM
+      REPLY_MESSAGE: $REPLY_MESSAGE
