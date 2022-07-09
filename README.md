@@ -52,20 +52,20 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 
 
-## Deploy to Heroku
+## 🔯Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/VCPlayerBotx)
 
-## Deploy to Railway
+## 🚄Deploy to Railway
 <p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
-## 🚀 Okteto Deployment
+## 🚀Okteto Deployment
 
 <h4>Click the button below to deploy VCPlayer on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Hydrayt777/VCPlayerBotx"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 
-## Deploy to VPS
+## ⚠️Deploy to VPS
 
 ```sh
 git clone https://github.com/subinps/VCPlayerBot
