@@ -65,7 +65,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Hydrayt777/VCPlayerBotx"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
   
-  ## Deploy for Okteto Config vars
+  ## Use this Config vars for Deploy to Okteto
 
 
 
